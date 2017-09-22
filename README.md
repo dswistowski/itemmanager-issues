@@ -1,7 +1,7 @@
 # Welcome to the Item Manager.
 The fastest item manager for Destiny 2
 
-![Screen shot](/img/screen.png)
+![Screen shot](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/screen.png)
 
 # FAQ
 
