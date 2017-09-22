@@ -1,6 +1,8 @@
 # Welcome to the Item Manager.
 The fastest item manager for Destiny 2
 
+![Screen shot](/img/screen.png)
+
 # FAQ
 
 ## Is it safe?
