@@ -37,6 +37,10 @@ Additionally you can save search by pressing star icon. Your searchs are storen 
 Yes, please mind the search option on your navbar - near sort icon. You can use it to change current sorting.
 
 
+## Examples:
+### Searching for mods - transfer to vault
 ![Mods to valut](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/to-vault.png)
+### Searching for mods - transfer to character
 ![Mods from vault](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/from-vault.png)
+### Search for duplicates
 ![Duplicates](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/duplicates.png)
