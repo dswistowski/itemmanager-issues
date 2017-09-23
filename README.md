@@ -27,9 +27,16 @@ A long time ago, I've created Vault helper what was the first item manager app f
  - You can search by damage type - try: `solar`, `void`
  - You can search by character - try: `vault`, `warlock`
  - You can join searches - `legendary submashine solar 280+` will show only legendary submashine guns with solar modifier and power level bigger than 280.
-
+ - You can search for duplicates - `duplicate`
+ - You can search for rare modifications which you cannot exchange to legendary ones yet `rare modifications 1-2 characters`
+ - You can find rare modification to change to legendary which are stored in valut: `rare modifications 3+ vault`
 Additionally you can save search by pressing star icon. Your searchs are storen in browser local storage, so you can use them later on the same browser
 
 ## Can I change sort order?
 
 Yes, please mind the search option on your navbar - near sort icon. You can use it to change current sorting.
+
+
+![Screen shot](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/to-vault.png)
+![Screen shot](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/from-vault.png)
+![Screen shot](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/duplicates.png)
