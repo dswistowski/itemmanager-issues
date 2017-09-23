@@ -37,6 +37,6 @@ Additionally you can save search by pressing star icon. Your searchs are storen 
 Yes, please mind the search option on your navbar - near sort icon. You can use it to change current sorting.
 
 
-![Screen shot](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/to-vault.png)
-![Screen shot](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/from-vault.png)
-![Screen shot](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/duplicates.png)
+![Mods to valut](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/to-vault.png)
+![Mods from vault](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/from-vault.png)
+![Duplicates](https://raw.githubusercontent.com/dswistowski/itemmanager-issues/master/img/duplicates.png)
